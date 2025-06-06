@@ -57,3 +57,4 @@ Use eksctl to automate the creation of:
    kubectl get nodes
    ```
    <img src="https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_eksctl/blob/main/Img/3%20nodes%20created.png" width=800/>
+   
