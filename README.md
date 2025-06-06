@@ -49,10 +49,11 @@ Use eksctl to automate the creation of:
      --nodes-min 1 \
      --nodes-max 3
    ```
-   <img src="" width=800 />
+   <img src="https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_eksctl/blob/main/Img/2%20cretaing%20cluster%20using%20eksctl.png" width=800 />
    
 2. Verify nodes
    
    ```bash
    kubectl get nodes
    ```
+   <img src="https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_eksctl/blob/main/Img/3%20nodes%20created.png" width=800/>
